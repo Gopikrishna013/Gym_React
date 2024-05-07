@@ -1,0 +1,86 @@
+/* .main-gym{
+    margin-top: 100px;
+    margin-left: 200px;
+} */
+
+
+/* .gym-total{
+    background-image: url('https://i.pinimg.com/originals/20/46/5a/20465a2eb9d1aef97a928968ab7efa15.png');
+} */
+.Nav-gymm{
+    background-color: black;
+}
+h3{
+  color: rgb(27, 38, 38);
+  text-align: center;
+  padding-top: 20px;
+}
+.main-gym {
+    width: 100%;
+    /* margin: 0 auto; */
+    /* padding: 150px 300px; */
+    /* background-image: url('https://static.vecteezy.com/system/resources/thumbnails/026/781/389/small_2x/gym-interior-background-of-dumbbells-on-rack-in-fitness-and-workout-room-photo.jpg'); */
+    
+    background-color: #74EBD5;
+background-image: linear-gradient(90deg, #74EBD5 0%, #9FACE6 100%);
+
+/* background-color: rgb(5, 5, 71); */
+
+    background-size: cover;
+    background-repeat: no-repeat;
+    padding-bottom: 400px;
+    /* margin-left: 0px; */
+    /* margin-right: -100px; */
+}
+/*   
+  input[type="text"],
+  button {
+    margin-bottom: 10px;
+  } */
+  .fa-spinner{
+    color: rgb(5, 45, 13);
+    margin-left: 550px;
+  }
+  .search-input{
+    margin-top: 50px;
+    width: 300px;
+    margin-right: 10px;
+    margin-left: 400px;
+    /* padding: 100px; */
+    height: 45px;
+    border-radius: 10px;
+    border: 1px solid;
+    margin-bottom: 60px;
+  }
+  .search-button{
+    padding: 10px 20px;
+    border-radius: 10px;
+    background-color: brown;
+  }
+  .exercise-cards {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    margin-left: 40px;
+  }
+  
+  .exercise-card {
+    width: calc(33.33% - 10px); /* Adjust width to fit 3 items in a row with some margin */
+    margin-bottom: 20px;
+    /* border: 2px solid red ; */
+  }
+  
+  .exercise-card img {
+    width: 60%;
+    height: auto;
+    margin-left: 50px;
+  }
+  
+  .exercise-card h2 {
+    margin-top: 10px;
+    text-align: center;
+    color: white;
+    font-size: 20px;
+    margin-left: 10px;
+  }
+  

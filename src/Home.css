@@ -1,0 +1,22 @@
+.gym-main{
+    /* background-image: url('https://broscience.com/wp-content/uploads/2023/10/gym-motivation-success.jpg'); */
+    /* background-image: url('https://sg-res.9appsdownloading.com/sg/res/jpg/d8/41/96c19125b31c16d800205cdf3ae6-cyg.jpg?x-oss-process=style/hq'); */
+    background-image: url('https://cdn.wallpapersafari.com/65/19/CRuKD9.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    /* width: 1000px; */
+    height: 530px;
+    /* height: ; */
+}
+.gym-tag{
+    font-size: 50px;
+    font-weight: bolder;
+    color: white;
+    margin-top: 120px;
+    margin-left: 300px;
+}
+.gym-suntag{
+    color: rgb(232, 13, 86);
+    font-size: 60px;
+
+}

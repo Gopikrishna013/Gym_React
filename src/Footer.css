@@ -1,0 +1,27 @@
+.gym-ft{
+    background-color: rgb(8, 10, 10);
+    padding: 30px 100px 100px;
+    margin-top: 100px;
+}
+.gym-icons{
+    font-size: 30px;
+    color: white;
+    margin-left: 300px;
+    /* padding: 2px 10px; */
+}
+.hrs{
+    width: 70%;
+    color: white;
+    margin-left: 100px;
+    margin-top: 20px;
+}
+.fa{
+    padding: 2px 15px;
+}
+.fa:hover{
+    color: orange;
+}
+.cpy-gym{
+    color: white;
+    margin-left: 300px;
+}

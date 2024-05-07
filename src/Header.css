@@ -1,0 +1,24 @@
+.head{
+    background-color: rgba(0, 0, 0, 0.84);
+    color: white;
+}
+b{
+    font-size: 25px;
+}
+.me-auto{
+    margin-left: 100px;
+    font-size: 20px;
+    /* padding: 1px 5px; */
+    color: white;
+}
+.nav-main{
+    color: white
+}
+.gym-Link{
+    color: white;
+    margin-left: 30px;
+}
+.gym-Link:hover{
+    color: rgb(207, 2, 36);
+    border-bottom: 2px solid rgb(232, 5, 43);
+}

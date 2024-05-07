@@ -1,0 +1,64 @@
+.gym-bmi{
+    /* border: 1px solid black; */
+    background-color: aqua;
+    /* background-image: url('https://static.vecteezy.com/system/resources/previews/020/724/865/non_2x/athletic-man-training-biceps-at-the-gym-to-use-as-banner-photo.jpg'); */
+    background-image: url('https://www.shutterstock.com/image-photo/fitness-woman-performs-exercises-resistance-260nw-1907784034.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+/* padding-top: 50px; */
+/* padding-bottom: 50px; */
+    /* margin-left: 40px; */
+    margin-top: 40px;
+}
+.gym-sub{
+    padding-top: 100px;
+padding-bottom: 50px;
+color: white;
+}
+.gym-total{
+    border: 1px solid rgb(242, 234, 234);
+    border-radius: 20px;
+    background-color: rgba(17, 19, 19, 0.523);
+    /* margin-top: 120px; */
+    margin-left: 100px;
+
+    /* padding: 5px 15px; */
+    margin-right: 600px;
+}
+.gym-h{
+    margin-left: 100px;
+    margin-top: 30px;
+    color: white;
+}
+.gym-wt{
+    margin-left: 40px;
+    margin-top: 20px;
+    margin-bottom: 30px;
+}
+.gym-ht{
+    margin-left: 40px;
+    margin-bottom: 30px;
+}
+.gym-inp{
+    margin-left: 10px;
+    height: 35px;
+    color: white;
+    width: 300px;
+    border-radius: 10px;
+    border: 1px solid white ;
+    background-color: rgba(0, 0, 0, 0.55);
+}
+.gym-btn{
+    background-color: crimson;
+    color: white;
+    padding: 10px 15px;
+    border-radius: 20px;
+    margin-left: 40px;
+    margin-bottom: 30px;
+
+}
+.gym-rslt{
+    margin-left: 40px;
+    font-size: 25px;
+    font-weight: bolder;
+}
